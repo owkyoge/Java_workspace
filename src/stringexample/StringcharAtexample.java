@@ -4,7 +4,7 @@ public class StringcharAtexample {
 
 	public static void main(String[] args) {
 	
-		String str1 = "Learn Java";
+		String str1 = "LearnJava";
 		String str2 = "Learn\nJava";
 		
 		System.out.println(str1.charAt(2)); 

@@ -1,6 +1,6 @@
 package stringexample;
 
-public class Loop {
+public class StringLoopWhile {
 	
 	// while , do while , for , for-each 
 

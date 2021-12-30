@@ -3,7 +3,7 @@ package stringexample;
  
  public class StringSplitWithLimitParameters {
 
-//	public static void main(String[] args) {
+//	public static void main(String arg [) {
 //     
 //		//String vowels = "a:bc:de:fg:h";4r2a
 //		

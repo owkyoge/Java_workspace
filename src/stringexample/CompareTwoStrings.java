@@ -14,6 +14,8 @@ public class CompareTwoStrings {
 		boolean result2 = a1.equals(a3);
 		System.out.println( "String a1 and a3 are equal :" + result2);
 		
-				}
+
+	
+	}
 
 }
