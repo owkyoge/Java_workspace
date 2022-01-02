@@ -1,6 +1,6 @@
 package interfaceExample;
 
-public class Alagadda implements MarriageBuero{
+public class Alagadda implements MarriageBuero {
 
 	@Override
 	public int age() {
@@ -19,12 +19,12 @@ public class Alagadda implements MarriageBuero{
 
 	@Override
 	public float height() {
-	return 5.3f;
+		return 5.3f;
 	}
 
 	@Override
 	public String name() {
-	return "Shirisha";
+		return "Shirisha";
 	}
 
 }
