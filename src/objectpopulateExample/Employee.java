@@ -1,10 +1,14 @@
 package objectpopulateExample;
 
-public class Employee {
+import java.io.Serializable;
+
+public class Employee implements Serializable {
 
 	public Employee() {
 
 	}
+
+	
 
 	private int id;
 
@@ -15,6 +19,12 @@ public class Employee {
 	private long cellNo;
 
 	private Address addr;
+	
+	
+	public Employee(String name, int id) {
+		this.name = name;
+		this.id = id;
+	}
 
 	public int getId() {
 		return id;
