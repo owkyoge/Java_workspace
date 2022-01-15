@@ -4,7 +4,7 @@ public class BooleanToStringExample1 {
 	
 	
 	//   Java boolean to String Example using String.valueOf()
-	DateToTimestampExample1
+	
 
 	public static void main(String args[]) {
 
