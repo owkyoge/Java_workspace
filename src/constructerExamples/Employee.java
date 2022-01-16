@@ -5,7 +5,7 @@ public class Employee {
 	 
 	 
 	 public Employee() {
-		 System.out.println("Hello World");
+		 System.out.println("This is Default Constructor" +   "      -------->  "  +   "HELLO WORLD");
 	 }
 	 
 	 public Employee(String name) {
@@ -15,6 +15,8 @@ public class Employee {
 	 public Employee(int age) {
 		 System.out.println(age);
 	 }
+	 
+	 
 	 
 	 public Employee( String name ,int age) {
 		 System.out.print("Virat >>>>>>");

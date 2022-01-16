@@ -24,7 +24,7 @@ public class ComparatorInterface00 {
 
 }  
 
- public class MyComparator implements Comparator{
+  class MyComparator implements Comparator{
 
 	public int compare(Object o1, Object o2) {
 		

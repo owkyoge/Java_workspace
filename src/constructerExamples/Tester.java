@@ -5,9 +5,7 @@ public class Tester {
 
 	public static void main(String[] args) {
    
-		Employee obj1 = new Employee();
-		
-		
+		Employee obj1  = new Employee();
 		
 		
 		

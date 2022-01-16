@@ -7,15 +7,15 @@ public class TreeSetDemo10 {
 
 	public static void main(String[] args) {
 		TreeSet t = new TreeSet(new MyComparator());
-		t.add(new String Buffer("A"));
-		t.add(new String Buffer("Z"));
-		t.add(new String Buffer("K"));
-		t.add(new String Buffer("L"));
+		t.add(new String ("A"));
+		t.add(new String ("Z"));
+		t.add(new String ("K"));
+		t.add(new String ("L"));
 		System.out.println(t);
 	}
 
 }
-public class MyComparator implements Comparator{
+ class UrComparater implements Comparator{
 
 	public int compare(Object obj1, Object obj2) {
 		

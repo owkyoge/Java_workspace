@@ -21,7 +21,7 @@ public class TreeSetDemo12 {
 }
 
 
-public class MyComparator implements Comparator{
+private class MyComparator implements Comparator{
 
 	public int compare(Object obj1, Object obj2) {
 		
