@@ -14,7 +14,7 @@ public class ArrayListDemo {
 		l.add(10);
 		l.add("A");
 		l.add(null);
-		//System.out.println(l);
+	//	System.out.println(l);
 	//	l.remove(2);
 		//System.out.println(l);
 		l.add(2, "M");
@@ -37,13 +37,13 @@ public class ArrayListDemo {
 		
 		
 		
-	/*	ArrayList l1 = new ArrayList();
+		ArrayList l1 = new ArrayList();
         LinkedList l2 = new LinkedList();
         
         System.out.println(l1 instanceof Serializable);
         System.out.println(l2 instanceof Cloneable);
 		System.out.println(l1 instanceof RandomAccess);
-		System.out.println(l2 instanceof RandomAccess);*/
+		System.out.println(l2 instanceof RandomAccess);
 	}
 
 }

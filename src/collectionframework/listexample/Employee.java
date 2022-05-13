@@ -52,7 +52,7 @@ public class Employee {
 		Employee e9 = new Employee("IIII", 90, 6006);
 		Employee e10 = new Employee("JJJJ", 10, 4050);
 
-		ArrayList<Employee> l = new ArrayList<>();
+		ArrayList<Employee> l = new ArrayList<Employee>();
 
 		l.add(e1);
 		l.add(e2);
@@ -72,26 +72,24 @@ public class Employee {
 		 
 			
 			if (s >= 10000) {
-				System.out.println(s);
+			System.out.println(s);
 
 		}
 		
 		
 	
 		
-		/*
-		 * Employee emp = l.get(0); emp.getSalary();
-		 * System.out.println(emp.getSalary());
-		 * 
-		 * Employee emp1 = l.get(1); emp1.getSalary();
-		 * System.out.println(emp1.getSalary());
-		 * 
-		 * Employee emp2 = l.get(0); emp2.getSalary();
-		 * System.out.println(emp2.getSalary());
-		 */
 		
+//		  Employee empp = l.get(0); empp.getSalary();
+//		  System.out.println(empp.getSalary());
+//		  
+//		  Employee emp1 = l.get(1); emp1.getSalary();
+//		  System.out.println(emp1.getSalary());
+//		  
+//		  Employee emp2 = l.get(0); emp2.getSalary();
+//		  System.out.println(emp2.getSalary());
 		
-		
+						
 		
 	}
 

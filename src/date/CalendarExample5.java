@@ -8,11 +8,11 @@ public class CalendarExample5 {
 
 		Calendar c = Calendar.getInstance();
 		
-		int maximum = c.getMinimum(Calendar.DAY_OF_WEEK);
-		System.out.println(maximum);
+		int minimum = c.getMinimum(Calendar.DAY_OF_WEEK);
+		System.out.println(minimum);
 
-		maximum = c.getMinimum(Calendar.WEEK_OF_YEAR);
-		System.out.println(maximum);
+		minimum = c.getMinimum(Calendar.WEEK_OF_YEAR);
+		System.out.println(minimum);
 		
 		
 		

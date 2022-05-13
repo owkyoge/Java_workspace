@@ -6,6 +6,8 @@ public class LongToIntExample1 {
 
 		long l = 200;
 		int i = (int)l;
+		
+		
 		System.out.println(i);
 	}
 

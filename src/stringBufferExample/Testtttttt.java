@@ -1,3 +1,4 @@
+
 package stringBufferExample;
 
 public class Testtttttt {
@@ -11,6 +12,12 @@ public class Testtttttt {
 		s1 = s1+"World";
 		
 		System.out.println(s1);
+		
+		
+		String d2 = "Yogi";
+		d2 = d2  + " Marthand";
+		System.out.println(d2);
+		
 	}
 
 }

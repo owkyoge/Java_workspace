@@ -11,7 +11,7 @@ public class StackDemo {
 		s.push("B");
 		s.push("c");
 		System.out.println(s);
-		System.out.println(s.search("A"));
+		System.out.println(s.search("c"));
 		System.out.println(s.search("Z"));
 
 	}

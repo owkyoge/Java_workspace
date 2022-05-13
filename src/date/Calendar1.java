@@ -11,5 +11,4 @@ public class Calendar1 {
 		Calendar c = Calendar.getInstance();
 		System.out.println("The Current Date is:" + c.getTime());
 	}
-
 }

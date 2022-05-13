@@ -9,7 +9,16 @@ public class ForLoop {
 			i++;
 		}
 	}
-   private static void print() {
+
+	public static void yogi() {
+		int n = 5;
+		for (int i = 1; i <= n;) {
+			System.out.println("Yogi" + i);
+			i++;
+		}
+	}
+
+	private static void print() {
 		int sum = 0;
 		int n = 100;
 		for (int i = 1; i <= n; ++i) {
@@ -20,10 +29,10 @@ public class ForLoop {
 
 	public static void main(String[] args) {
 		printForLoop();
-		//print();
-	}
+		yogi();
 
-	
+//		print();  //   5050
+	}
 
 }
 

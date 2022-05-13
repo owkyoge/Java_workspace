@@ -15,7 +15,7 @@ public class GrandChild3 extends Child2{
 	
 	@Override
 	public String getName() {
-		String name = "Virat";
+		String name = "Yogi";
 		return name;
 	}
 	
@@ -36,9 +36,9 @@ public class GrandChild3 extends Child2{
 		String name = g3.getName();
 		double averageDailyWage = g3.getAverageDailyWage();
 		
-		System.out.println(property);
-		System.out.println(age);
 		System.out.println(name);
+		System.out.println(age);
+		System.out.println(property);
 		System.out.println(averageDailyWage);
 		
 	}

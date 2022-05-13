@@ -7,7 +7,8 @@ public class MaxExample3 {
 		float f = -25.31f;
 		float t = -20.34f;
 		
-		System.out.println(Math.max(f, t));
+		System.out.println(Math.max(f, t));    // maximum
+		System.out.println(Math.min(f, t));    // minimum
 	}
 
 }

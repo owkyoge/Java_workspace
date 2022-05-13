@@ -7,8 +7,15 @@ public class ComparableInterface01 {
 		System.out.println("A".compareTo("Z"));
 		System.out.println("Z".compareTo("B"));
 		System.out.println("A".compareTo("A"));
+		
+		
+		System.out.println("H".compareTo("G"));
+
+		
+		
 		System.out.println("A".compareTo(null));       //  java.lang.NullPointerException
 
+		
 	}
 
 }

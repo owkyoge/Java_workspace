@@ -19,9 +19,9 @@ public class DecimalToOctalExample2 {
 	
 	public static void main(String[] args) throws CloneNotSupportedException {
 		
-		DecimalToOctalExample2 decimalToOctalExample2 = new DecimalToOctalExample2();
-		
-		DecimalToOctalExample2 clone = (DecimalToOctalExample2)decimalToOctalExample2.clone();
+//		DecimalToOctalExample2 decimalToOctalExample2 = new DecimalToOctalExample2();
+//		
+//		DecimalToOctalExample2 clone = (DecimalToOctalExample2)decimalToOctalExample2.clone();
 		
 		System.out.println("Decimal to octal of 8 is: "+toOctal(8));
 		System.out.println("Decimal to octal of 19 is: "+toOctal(19));

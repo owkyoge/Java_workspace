@@ -8,6 +8,7 @@ public class MaxExample2 {
 		double e = -36.25;
 		
 		System.out.println(Math.max(d, e));
+		System.out.println(Math.min(d, e));
 	}
 
 }

@@ -1,9 +1,7 @@
 package oops;
 
-class Two {
+abstract class Two {
 	 
-	 abstract static void main(String[] args) {
-		System.out.println("Helo World");
-	}
+	 abstract void main(String[] args);
 
 }

@@ -17,6 +17,11 @@ public class GetfloatdoublestringInput {
         String myString = input.next();
         System.out.println("String entered = " + myString);
         
+        
+        System.out.println("Enter int:");
+        int i = input.nextInt();                        //   09/04/2022 
+        System.out.println("Entered int = " + i);
+        
 	}
 
 }

@@ -34,9 +34,9 @@ public class GrandChild2 extends Child1{
 	double d = g2.getAverageDailyWage();
 	
 	
-	System.out.println(property);
-    System.out.println(age);
 	System.out.println(name);
+    System.out.println(age);
+    System.out.println(property);
 	System.out.println(d);
 
 }

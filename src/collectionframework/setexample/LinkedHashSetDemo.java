@@ -12,6 +12,7 @@ public class LinkedHashSetDemo {
 		  lhs.add("B");
 		  lhs.add("Z");
 		  lhs.add(null);
+		  lhs.add("A");
 		  lhs.add(10);
 
 			System.out.println(lhs.add("Z"));    // false

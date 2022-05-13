@@ -14,6 +14,9 @@ public class ObjectToStringExample {
 		String s1 = String.valueOf(e);
 		System.out.println(s);
 		System.out.println(s1);
+		
+		
+		
 	}
 
 }

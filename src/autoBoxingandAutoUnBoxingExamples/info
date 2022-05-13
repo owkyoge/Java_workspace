@@ -3,6 +3,14 @@ interviewe ===1
  
  What is Premitive Data types ?
 
+ int 
+ double
+ long 
+ float
+ char
+ 
+ What is Wraper Class types ?
+  
  Integer
  Double
  Long 
@@ -11,13 +19,14 @@ interviewe ===1
  
  
  interveiwe ====2
- What is AutoBoxing and Unboxing ?
+ 
+ What is AutoBoxing and AutoUnBoxing ?
 
 AUTOBOXING===
 
 Converting Premitive Data types into Wraper Class are called AutoBoxing.
 
-UNBOXING ====
+AUTOUNBOXING ====
  
  Converting  Wraper Class types into Premitive Data types are called UnBoxing.
  

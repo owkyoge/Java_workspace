@@ -8,6 +8,8 @@ public class BufferedInputStreamExample {
 	
 	public BufferedInputStreamExample(){
 		
+		// Default Consutor
+		
 	}
 
 	public static void main(String[] args) {

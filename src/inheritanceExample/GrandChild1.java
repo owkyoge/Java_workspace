@@ -9,9 +9,11 @@ public class GrandChild1 extends Child1 {
   String name = g1.getName();
   double d = g1.getAverageDailyWage();
   
-  System.out.println(property);
-  System.out.println(age);
+  
+  
   System.out.println(name);
+  System.out.println(age);
+  System.out.println(property);
   System.out.println(d);
   
   

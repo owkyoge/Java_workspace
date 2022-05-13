@@ -10,7 +10,7 @@ public class EmployeeTester {
 		System.out.println(e.getAddress());
 
 		Employee e1 = new Employee() {
-			@Override
+		@Override
 			public String getAddress() {
 				return "Hyderabad";
 			}
@@ -19,4 +19,4 @@ public class EmployeeTester {
 		System.out.println(e1.getAddress());
 	}
 
-}
+  }

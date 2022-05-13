@@ -30,6 +30,12 @@ public class Tester {
 
 		System.out.println("after converting from int to char     " + c);
 
+		int  x = 32;
+		char c1 = (char) x;
+		
+		System.out.println("after converting from int to char     " + c1  + " SPACE");
+		
+		
 		int abc = 99;
 		double d = (double) abc;
 

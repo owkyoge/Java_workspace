@@ -9,6 +9,7 @@ public class Address {
 	private String distic;
 	private String state;
 	private long pinCode;
+	private String newDistic;
 
 	public int getHouseNo() {
 		return houseNo;
@@ -65,5 +66,15 @@ public class Address {
 	public void setPinCode(long pinCode) {
 		this.pinCode = pinCode;
 	}
+
+	public String getNewDistic() {
+		return newDistic;
+	}
+
+	public void setNewDistic(String newDistic) {
+		this.newDistic = newDistic;
+	}
+	
+	
 
 }

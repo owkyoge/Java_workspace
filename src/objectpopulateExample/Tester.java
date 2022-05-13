@@ -38,7 +38,7 @@ public class Tester {
 
 		System.out.println("Department Hod Name : " + d.getDeptHodName());
 
-		// Populate Adress
+		// Populate Address
 
 		Address a = new Address();
 

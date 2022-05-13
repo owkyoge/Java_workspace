@@ -6,7 +6,8 @@ public class TestSimple01 {
 		Class c= obj.getClass();
 		System.out.println(c.getName());
 	}
-	
+
+
 	
 	public static void main(String[] args) {
            Simple01 s1 = new Simple01();

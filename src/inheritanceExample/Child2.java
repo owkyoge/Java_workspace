@@ -38,9 +38,9 @@ public class Child2 extends Parent {
 	double d = c2.getAverageDailyWage();
 		
 			
-    System.out.println(property);
-    System.out.println(age);
     System.out.println(name);
+    System.out.println(age);
+    System.out.println(property);
     System.out.println(d);
 	}
 	

@@ -1,5 +1,7 @@
 package oops;
 
- protected class Three {
+ class Three {
 
+	 
 }
+ 

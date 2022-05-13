@@ -13,7 +13,7 @@ public class SerializationTest {
 		FileOutputStream fos = null;
 		ObjectOutputStream oos = null;
 		try {
-			Employee e = new Employee("Yogi", 408);
+			Employee e = new Employee("Yogi", 408 );
 			fos = new FileOutputStream("D://serialization.txt");
 			oos = new ObjectOutputStream(fos);
 			oos.writeObject(e);

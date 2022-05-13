@@ -17,7 +17,27 @@ public class Tester {
         System.out.println(v1.eighthClass());
         System.out.println(v1.ninethClass());
         System.out.println(v1.tenthClass());
-        System.out.println(                   );
+        System.out.println(  );
+        
+        
+        Maddamma m1 = new Maddamma();
+        
+        System.out.println(" * Maddamma ");
+        
+        System.out.println(m1.firstClass());
+        System.out.println(m1.secondClass());
+        System.out.println(m1.thirdClass());
+        System.out.println(m1.fourthClass());
+        System.out.println(m1.fifthClass());
+        System.out.println(m1.sixthClass());
+        System.out.println(m1.seventhClass());
+        System.out.println(m1.eighthClass());
+        System.out.println(m1.ninethClass());
+        System.out.println(m1.tenthClass());
+        
+        
+        System.out.println(    );
+        
         
         
         Sarawathi s1 = new Sarawathi();

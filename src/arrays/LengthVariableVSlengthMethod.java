@@ -22,6 +22,8 @@ public class LengthVariableVSlengthMethod {
 		
 
 		System.out.println(s[0].length());   // 1
+		System.out.println(s[1].length());   //2
+		System.out.println(s[2].length());   //3
 
 		
 		

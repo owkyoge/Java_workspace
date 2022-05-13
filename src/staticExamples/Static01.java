@@ -29,11 +29,14 @@ public class Static01 {
 		e2.Salary = 3000;
 		e2.name = "Sai";
 	   
-		e2.name = "Nani"; 
+         e2.name = "Nani"; 
 		
 		
 		e1.main();
 		e2.main();
+		
+		
+	//	System.out.println(e1);
 		
 		
 		

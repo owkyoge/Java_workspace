@@ -14,7 +14,7 @@ public class LinkedListDemo {
 		l.set(0, " Software");
 		l.add(0, "Sai");
 		l.removeLast();
-		l.addFirst("Mohan");
+	    l.addFirst("Mohan");
 		System.out.println(l);
 
 	}

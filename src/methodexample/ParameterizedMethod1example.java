@@ -24,8 +24,8 @@ public class ParameterizedMethod1example {
 		return x;
 	}
 	
-	public int division(int g , int h) {
-		int s = g/h;
+	public int division(int g , int h ,int i) {
+		int s = g/h+i;
 	return s;
 	}
 	
@@ -40,7 +40,7 @@ public class ParameterizedMethod1example {
 		int result = p1.add(1,2);
 		int result1= p1.multiply(30,30);
 		int result2 = p1.substract(12,6);
-		int result3 = p1.division(18,3);
+		int result3 = p1.division(18,3 , 3);
 		int result4 = p1.add1(1,2,30);
 		
 		

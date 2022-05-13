@@ -6,7 +6,13 @@ public class Tester {
 
 		// case :1 
 		    try {
+		    
 		    	System.out.println("Hello World");
+		    	
+		    	
+		    	System.out.println("Hello BPL"   + "                     "  +  " Prepared on 09/04/2022 " ); //  on  09/04/2022
+
+		    	
 		    }
 		    
 		    catch (Exception e ) {
@@ -57,6 +63,7 @@ public class Tester {
 		    try {
 		    	String fruits [] = {"Apple" , "Banana" , "Cherry" ,"Grapes" , "Mango" , "Guava"};
 		    	  System.out.println(fruits[1]);
+		    	  System.out.println(fruits[5]);      /// 0n 09/04/2022
 		    
 		    }
 		    
@@ -76,6 +83,8 @@ public class Tester {
 		     
 		    try {
 		    	System.out.println("Hello World");
+		    	System.out.println("Banaganapalli"   + "                     "  +  " Prepared on 09/04/2022 " ); //  on  09/04/2022
+		    	
 		    }
 		
 		
@@ -85,6 +94,8 @@ public class Tester {
 		
 		  finally {
 			  System.out.println("Hello World");
+		    	System.out.println("Banaganapalli"   + "                     "  +  " Prepared on 09/04/2022 " ); //  on  09/04/2022
+
 		  }
 		
 		
@@ -92,6 +103,8 @@ public class Tester {
 		    
 		    try {
 		    	System.out.println("ABD");
+		    	System.out.println("Banaganapalli"   + "                     "  +  " Prepared on 09/04/2022 " ); //  on  09/04/2022
+
 		    }
 		
 		finally {

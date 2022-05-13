@@ -5,9 +5,9 @@ public class JavaifwithString {
 
 	public static void main(String[] args) {
         
-		String language = "Virat";
+		String s = "Virat";
 		
-		if (language == "Virat");      {
+		if (s == "Virat");      {
 		
 			System.out.println("Best Programming Language");
 		}
@@ -15,4 +15,4 @@ public class JavaifwithString {
 		
 	}
 
-}
+}																								

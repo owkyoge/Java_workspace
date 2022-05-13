@@ -12,8 +12,12 @@ public class ComparableInterface02 {
 		t.add("Z");   // "Z".compareTo("B");   +ve
 		t.add("A");   // "A".compareTo("B");   -ve
 
+		
+		
+		
 		System.out.println(t);  //[A,B,Z]
 
 	}
+	
 
 }

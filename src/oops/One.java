@@ -1,5 +1,5 @@
 package oops;
 
-private class One {
+class One {
 
 }

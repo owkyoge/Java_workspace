@@ -20,6 +20,11 @@ public class MethodOverloadingExample {
 			return d;
 		}
 		
+		public int add(int a, int b, double d) {
+			int p = a+b;
+			return p;
+		}
+		
 
 	public static void main(String[] args) {
              
@@ -31,10 +36,15 @@ public class MethodOverloadingExample {
 		
 		int result3 = obj.add(21, 10.76d);
 		
+		int result4 = obj.add(100, 101, 12.032);
+
+		
 		
 	    System.out.println(result);
 		System.out.println(result1);
 		System.out.println(result3);
+		System.out.println(result4);
+	//	System.out.println(obj.add(100, 101, 12.032));
 		
 		
 	}

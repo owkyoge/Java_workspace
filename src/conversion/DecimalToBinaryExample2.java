@@ -21,7 +21,7 @@ public class DecimalToBinaryExample2 {
 		public static void main(String[] args) {
 
 		System.out.println("Decimal of 10 is:");
-		toBinary(10);
+		
 		System.out.println("Decimal of 21 is:");
 		toBinary(21);
 		System.out.println("Decimal of 31 is:");

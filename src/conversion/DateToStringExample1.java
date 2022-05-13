@@ -11,7 +11,7 @@ public class DateToStringExample1 {
 
 		Date d = Calendar.getInstance().getTime();
 
-		DateFormat df = new SimpleDateFormat("yyyy-mm-dd hh:mm:ss");
+		DateFormat df = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss");
 		
 		String sDate = df.format(d);
 		System.out.println("Converted string:" + sDate);

@@ -7,7 +7,7 @@ public class SubStringReturnValue {
 		
 	    System.out.println(str1.substring(0, 9));  
         
-	    System.out.println(str1.substring(4 ));
+	    System.out.println(str1.substring(4));
 	    
 	    System.out.println(str1.substring(0, 4)); 
 

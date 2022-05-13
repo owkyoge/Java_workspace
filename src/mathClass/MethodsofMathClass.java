@@ -20,7 +20,11 @@ public class MethodsofMathClass {
         double p = 81.0;  
         // Input positive value, Output square root of x  
         System.out.println(Math.sqrt(p)); 
-		
+        
+        
+//        int i = 49;
+//        System.out.println(Math.sqrt(i));    // 7.0           
+
 		
 	}
 

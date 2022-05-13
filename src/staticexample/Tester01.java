@@ -6,12 +6,12 @@ public class Tester01 {
 
 		
 		
-	/*	System.out.println(Employee.getName());
+		System.out.println(Employee.getName());
 		System.out.println(Employee.distict);
 		System.out.println(Employee.state);
 		System.out.println(Employee.country);
 		
-		System.out.println(Employee.fullname());*/
+		System.out.println(Employee.fullname());
 		
 		
 		Employee e = new Employee();

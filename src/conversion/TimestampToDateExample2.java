@@ -12,7 +12,7 @@ public class TimestampToDateExample2 {
         
 		Date date=ts;  
         
-		System.out.println(date);    
+		System.out.println(date);   
 	}
 
 }

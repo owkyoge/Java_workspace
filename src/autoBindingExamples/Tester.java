@@ -8,24 +8,31 @@ public class Tester {
 
 	public static void main(String[] args) {
 
-		// Parent p = new Parent();
-		// Child c = new Child();
+/*		 Parent p = new Parent();
+		 Child c = new Child();
 
-		/*
-		 * GrandChild1 gc1 = new GrandChild1(); GrandChild2 gc2 = new GrandChild2();
-		 * 
-		 * String namep = p.getName(); String namec = c.getName(); String namegc1 =
-		 * gc1.getName(); String namegc2 = gc2.getName();
-		 * 
-		 * System.out.println(namep); System.out.println(namec);
-		 * System.out.println(namegc1); System.out.println(namegc2);
-		 */
+		
+		  GrandChild1 gc1 = new GrandChild1();
+		   GrandChild2 gc2 = new GrandChild2();
+		  
+		  String namep = p.getName();
+		  String namec = c.getName();
+		  String namegc1 =gc1.getName();
+		  String namegc2 = gc2.getName();
+		  
+		  System.out.println(namep); 
+		  System.out.println(namec);
+		  System.out.println(namegc1); 
+		  
+		  System.out.println(namegc2);  */
+		
 
 		// Case:1
 
 		Parent p1 = new Child();
 		p1.getName();
 		System.out.println(p1.getName());
+		
 
 		Parent p2 = new GrandChild1();
 		p2.getName();
@@ -50,6 +57,9 @@ public class Tester {
 	//	GrandChild1 gc1=  new Parent();
 	//	gc1.getName();
 		
+
+
+		 
 
 	}
 

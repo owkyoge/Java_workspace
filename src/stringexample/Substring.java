@@ -6,7 +6,7 @@ public class Substring {
 		String str1 = "java is fun" ;
 		
 		
-		System.out.println(str1.substring(0,4));
+		System.out.println(str1.substring(0,6));
 
 	}
 

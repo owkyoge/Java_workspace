@@ -13,16 +13,33 @@ public class StringcontentEquals {
       StringBuffer sb2 = new StringBuffer ("javA");
       CharSequence ch2  = "javA";
       
+      
+      String str3 = "Java";
+      StringBuffer sb3 = new StringBuffer ("javA");
+      CharSequence ch3  = "java";
+
+
       System.out.println(str.contentEquals(str1));
       System.out.println(str.contentEquals(sb1));
       System.out.println(str.contentEquals(ch1));
       
+       System.out.println("  ");
+
+      
       System.out.println(str.contentEquals(str2));
       System.out.println(str.contentEquals(sb2));
       System.out.println(str.contentEquals(ch2));
+
+       System.out.println(" ");
+
+      
+      System.out.println(str.contentEquals(str3));
+      System.out.println(str.contentEquals(sb3));
+      System.out.println(str.contentEquals(ch3));
+
+      
       
 	}
 
-}
+  }
 
-s

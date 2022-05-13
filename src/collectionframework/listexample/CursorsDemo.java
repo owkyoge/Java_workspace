@@ -14,6 +14,10 @@ public class CursorsDemo {
 	    Enumeration e = v.elements();
 	    Iterator itr = v.iterator();
 	    ListIterator litr = v.listIterator();
+	    
+	    
+	    
+	    
 	    System.out.println(e.getClass().getName());
 	    System.out.println(itr.getClass().getName());
 	    System.out.println(litr.getClass().getName());

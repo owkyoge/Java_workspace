@@ -5,7 +5,7 @@ public class CustomerTester {
 
 	public static void main(String[] args) {
 		
-		// Populate Adress
+		// Populate Address
 
 				Address a = new Address();
 
@@ -21,7 +21,7 @@ public class CustomerTester {
 		
 		// Populate Customer
 				
-				// new customer ( "Eswar" ,15);
+				// new customer ( "ESWAR" ,15);
 
 					customer c = new customer();
 
@@ -44,6 +44,7 @@ public class CustomerTester {
 					System.out.println("CustomerDistic : " + customeraddress.getDistic());
 					System.out.println("CustomerState : " + customeraddress.getState());
 					System.out.println("CustomerPinCode : " + customeraddress.getPinCode());
+					
 		
 	}
 	

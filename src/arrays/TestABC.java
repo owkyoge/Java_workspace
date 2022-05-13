@@ -4,9 +4,9 @@ public class TestABC {
 
 	public static void main(String[] args) {
 
-		String [] argh = {"X","Y","Z"};
+		String [] abd = {"X","Y","Z"};
 		
-		args = argh;
+		args = abd;
 		
 		for (String s : args) {
 			System.out.println(s);

@@ -8,13 +8,15 @@ public class PraccticeTest2 {
 		String s = "";
 		
 		
-		for (int i= 1; i<=10;) {
+		for (int i = 1; i<=10;  ) {
 			s = s+"*";
+			++i;
 			System.out.println(s);
-			i++;
 		}
+		
 		
 
 	}
+	
 
 }

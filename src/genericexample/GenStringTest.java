@@ -17,9 +17,14 @@ public class GenStringTest {
 		
 		
 		GenString<Double> g3 = new GenString<Double>(66.6);
-		g3.show();          //    The type of ob isjava.lang.Double
-		System.out.println(g3.getob());   //       66.6
+		g3.show();          //    The type of ob isjava.lang.Double , ;EM 
+		System.out.println(g3.getob());   //       66.6   
 
+		GenString<Double> g4 = new GenString<Double>(66.66);
+		g3.show();          //    The type of ob isjava.lang.Double , ;EM 
+		System.out.println(g4.getob());   //       66.66   
+
+		
 	}
 
 }

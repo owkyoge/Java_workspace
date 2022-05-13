@@ -2,6 +2,11 @@ package abstractExample;
 
 public abstract class Education {
 	
+	
+	
+	
+	
+	
 	public String firstClass() {
 	return "pass";	
 	}
@@ -38,6 +43,9 @@ public abstract class Education {
 	}
 
 	public abstract String tenthClass();
+	
+	
+	
 	
 	
 }

@@ -8,7 +8,7 @@ public class InfiniteforLoop {
 
 	
 	for (int i = 1;  i <= 10 ;  ) {
-		System.out.println("Sai"+ i);
+		System.out.println("Sai" + i);
 		--i;
 	}
 		

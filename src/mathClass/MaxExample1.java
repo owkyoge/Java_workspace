@@ -7,6 +7,7 @@ public class MaxExample1 {
 		int i = 28;
 		int t = 33;
 		System.out.println(Math.max(i, t));
+		System.out.println(Math.min(i, t));
 	}
 
 }

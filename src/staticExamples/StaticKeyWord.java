@@ -12,7 +12,7 @@ public class StaticKeyWord {
 		
 		
 		int age = s1.age;
-		String name = StaticKeyWord.name;
+		String name = s1.name;
 		
 		System.out.println(age);
 		System.out.println(name);

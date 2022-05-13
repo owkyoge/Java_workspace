@@ -10,6 +10,8 @@ public class Testerclass00 {
 	
 	Class c1 = reflectionexample.Testerclass00.class;
 
-	System.out.println(c1.getName());
+//	System.out.println(c1.getName());
 
+	
+	
 }

@@ -26,7 +26,8 @@ class MyComparator implements Comparator {
 		String s1 = obj1.toString();
 		String s2 = obj2.toString();
 
-		return s2.compareTo(s1); // return s1.compareTo(s2);  ===== {AAA=20, LLL=40, XXX=10, ZZZ=30}
+		return s2.compareTo(s1);
+	//  return s1.compareTo(s2);  ===== {AAA=20, LLL=40, XXX=10, ZZZ=30}
 
 	}
 

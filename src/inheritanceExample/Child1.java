@@ -12,9 +12,10 @@ public class Child1 extends Parent {
 		String name = c1.getName();
 		double d = c1.getAverageDailyWage();
 
-		System.out.println(property);
-		System.out.println(age);
+		
 		System.out.println(name);
+		System.out.println(age);
+		System.out.println(property);
 		System.out.println(d);
 	}
 
