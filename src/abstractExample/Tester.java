@@ -93,7 +93,11 @@ public class Tester {
         System.out.println(ms1.eighthClass());
         System.out.println(ms1.ninethClass());
         System.out.println(ms1.tenthClass());
-        
+     
+
+
+
+	 
 	}
 
 }
